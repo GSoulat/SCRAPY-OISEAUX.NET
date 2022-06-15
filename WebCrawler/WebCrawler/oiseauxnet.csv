@@ -1,0 +1,201 @@
+id_bird,class_bird,french_name,english_name
+1,001.Black_footed_Albatross,Albatros à pieds noirs,Black-footed Albatross
+2,002.Laysan_Albatross,Albatros de Laysan,Laysan Albatross
+3,003.Sooty_Albatross,Albatros fuligineux,Light-mantled Albatross
+4,004.Groove_billed_Ani,Ani à bec cannelé,Groove-billed Ani
+5,005.Crested_Auklet,Starique cristatelle,Crested Auklet
+6,006.Least_Auklet,Starique minuscule,Least Auklet
+7,007.Parakeet_Auklet,Starique perroquet,Parakeet Auklet
+8,008.Rhinoceros_Auklet,Macareux rhinocéros,Rhinoceros Auklet
+9,009.Brewer_Blackbird,Quiscale de Brewer,Brewer's Blackbird
+10,010.Red_winged_Blackbird,Carouge à épaulettes,Red-winged Blackbird
+11,011.Rusty_Blackbird,Quiscale rouilleux,Rusty Blackbird
+12,012.Yellow_headed_Blackbird,Carouge à tête jaune,Yellow-headed Blackbird
+13,013.Bobolink,Goglu des prés,Bobolink
+14,014.Indigo_Bunting,Passerin indigo,Indigo Bunting
+15,015.Lazuli_Bunting,Passerin azuré,Lazuli Bunting
+16,016.Painted_Bunting,Passerin nonpareil,Painted Bunting
+17,017.Cardinal,Cardinal rouge,Northern Cardinal
+18,018.Spotted_Catbird,Jardinier de Ramsay,Spotted catbird
+19,019.Gray_Catbird,Moqueur chat,Grey Catbird
+20,020.Yellow_breasted_Chat,Paruline polyglotte,Yellow-breasted Chat
+21,021.Eastern_Towhee,Tohi à flancs roux,Eastern Towhee
+22,022.Chuck_will_Widow,Engoulevent de Caroline,Chuck-will's-widow
+23,023.Brandt_Cormorant,Cormoran de Brandt,Brandt's Cormorant
+24,024.Red_faced_Cormorant,Cormoran à face rouge,Red-faced Cormorant
+25,025.Pelagic_Cormorant,Cormoran pélagique,Pelagic Cormorant
+26,026.Bronzed_Cowbird,Vacher bronzé,Bronzed Cowbird
+27,027.Shiny_Cowbird,Vacher luisant,Shiny Cowbird
+28,028.Brown_Creeper,Grimpereau brun,Brown Creeper
+29,029.American_Crow,Corneille d'Amérique,American Crow
+30,030.Fish_Crow,Corneille de rivage,Fish Crow
+31,031.Black_billed_Cuckoo,Coulicou à bec noir,Black-billed Cuckoo
+32,032.Mangrove_Cuckoo,Coulicou manioc,Mangrove Cuckoo
+33,033.Yellow_billed_Cuckoo,Coulicou à bec jaune,Yellow-billed Cuckoo
+34,034.Gray_crowned_Rosy_Finch,Roselin à tête grise,Grey-crowned Rosy Finch
+35,035.Purple_Finch,Roselin pourpré,Purple Finch
+36,036.Northern_Flicker,Pic flamboyant,Northern Flicker
+37,037.Acadian_Flycatcher,Moucherolle vert,Acadian Flycatcher
+38,038.Great_Crested_Flycatcher,Tyran huppé,Great Crested Flycatcher
+39,039.Least_Flycatcher,Moucherolle tchébec,Least Flycatcher
+40,040.Olive_sided_Flycatcher,Moucherolle à côtés olive,Olive-sided Flycatcher
+41,041.Scissor_tailed_Flycatcher,Tyran à longue queue,Scissor-tailed Flycatcher
+42,042.Vermilion_Flycatcher,Moucherolle vermillon,Scarlet Flycatcher
+43,043.Yellow_bellied_Flycatcher,Moucherolle à ventre jaune,Yellow-bellied Flycatcher
+44,044.Frigatebird,Frégate du Pacifique,Great Frigatebird
+45,045.Northern_Fulmar,Fulmar boréal,Northern Fulmar
+46,046.Gadwall,Canard chipeau,Gadwall
+47,047.American_Goldfinch,Chardonneret jaune,American Goldfinch
+48,048.European_Goldfinch,Chardonneret élégant,European Goldfinch
+49,049.Boat_tailed_Grackle,Quiscale des marais,Boat-tailed Grackle
+50,050.Eared_Grebe,Grèbe à cou noir,Black-necked Grebe
+51,051.Horned_Grebe,Grèbe esclavon,Horned Grebe
+52,052.Pied_billed_Grebe,Grèbe à bec bigarré,Pied-billed Grebe
+53,053.Western_Grebe,Grèbe élégant,Western Grebe
+54,054.Blue_Grosbeak,Guiraca bleu,Blue Grosbeak
+55,055.Evening_Grosbeak,Grosbec errant,Evening Grosbeak
+56,056.Pine_Grosbeak,Durbec des sapins,Pine Grosbeak
+57,057.Rose_breasted_Grosbeak,Cardinal à poitrine rose,Rose-breasted Grosbeak
+58,058.Pigeon_Guillemot,Guillemot colombin,Pigeon Guillemot
+59,059.California_Gull,Goéland de Californie,California Gull
+60,060.Glaucous_winged_Gull,Goéland bourgmestre,Glaucous Gull
+61,061.Heermann_Gull,Goéland de Heermann,Heermann's Gull
+62,062.Herring_Gull,Goéland d'Amérique,American Herring Gull
+63,063.Ivory_Gull,Mouette blanche,Ivory Gull
+64,064.Ring_billed_Gull,Goéland à bec cerclé,Ring-billed Gull
+65,065.Slaty_backed_Gull,Goéland à manteau ardoisé,Slaty-backed Gull
+66,066.Western_Gull,Goéland d'Audubon,Western Gull
+67,067.Anna_Hummingbird,Colibri d'Anna,Anna's Hummingbird
+68,068.Ruby_throated_Hummingbird,Colibri à gorge rubis,Ruby-throated Hummingbird
+69,069.Rufous_Hummingbird,Colibri roux,Rufous Hummingbird
+70,070.Green_Violetear,Colibri thalassin,Mexican Violetear
+71,071.Long_tailed_Jaeger,Labbe à longue queue,Long-tailed Jaeger
+72,072.Pomarine_Jaeger,Labbe pomarin,Pomarine Jaeger
+73,073.Blue_Jay,Geai bleu,Blue Jay
+74,074.Florida_Jay,Geai à gorge blanche,Florida Scrub Jay
+75,075.Green_Jay,Geai bigarré,Green Jay
+76,076.Dark_eyed_Junco,Junco ardoisé,Dark-eyed Junco
+77,077.Tropical_Kingbird,Tyran mélancolique,Tropical Kingbird
+78,078.Gray_Kingbird,Tyran gris,Grey Kingbird
+79,079.Belted_Kingfisher,Martin-pêcheur d'Amérique,Belted Kingfisher
+80,080.Green_Kingfisher,Martin-pêcheur vert,Green Kingfisher
+81,081.Pied_Kingfisher,Martin-pêcheur pie,Pied kingfisher
+82,082.Ringed_Kingfisher,Martin-pêcheur à ventre roux,Ringed Kingfisher
+83,083.White_breasted_Kingfisher,Martin-chasseur de Smyrne,White-throated kingfisher
+84,084.Red_legged_Kittiwake,Mouette des brumes,Red-legged kittiwake
+85,085.Horned_Lark,Alouette hausse-col,Horned Lark
+86,086.Pacific_Loon,Plongeon du Pacifique,Pacific Loon
+87,087.Mallard,Canard colvert,Mallard
+88,088.Western_Meadowlark,Sturnelle de l'Ouest,Western meadowlark
+89,089.Hooded_Merganser,Harle couronné,Hooded Merganser
+90,090.Red_breasted_Merganser,Harle huppé,Red-breasted Merganser
+91,091.Mockingbird,Moqueur polyglotte,Northern Mockingbird
+92,092.Nighthawk,Engoulevent d'Amérique,Common Nighthawk
+93,093.Clark_Nutcracker,Cassenoix d'Amérique,Clark's nutcracker
+94,094.White_breasted_Nuthatch,Sittelle à poitrine blanche,White-breasted nuthatch
+95,095.Baltimore_Oriole,Oriole du Nord,Baltimore Oriole
+96,096.Hooded_Oriole,Oriole masqué,Hooded oriole
+97,097.Orchard_Oriole,Oriole des vergers,Orchard oriole
+98,098.Scott_Oriole,Oriole jaune-verdâtre,Scott's oriole
+99,099.Ovenbird,Paruline couronnée,Ovenbird
+100,100.Brown_Pelican,Pélican brun,Brown pelican
+101,101.White_Pelican,Pélican blanc,Great White Pelican
+102,102.Western_Wood_Pewee,Pioui de l'Ouest,Western wood pewee
+103,103.Sayornis,Moucherolle phébi,Eastern Phoebe
+104,104.American_Pipit,Pipit d'Amérique,American Pipit
+105,105.Whip_poor_Will,Engoulevent bois-pourri,Eastern whip-poor-will
+106,106.Horned_Puffin,Macareux cornu,Horned Puffin
+107,107.Common_Raven,Grand Corbeau,Northern Raven
+108,108.White_necked_Raven,Corbeau à nuque blanche,White-necked raven
+109,109.American_Redstart,Paruline flamboyante,American Redstart
+110,110.Geococcyx,Grand Géocoucou,Greater roadrunner
+111,111.Loggerhead_Shrike,Pie-grièche migratrice,Loggerhead shrike
+112,112.Great_Grey_Shrike,Pie-grièche grise,Great Grey Shrike
+113,113.Baird_Sparrow,Bruant de Baird,Baird's Sparrow
+114,114.Black_throated_Sparrow,Bruant à gorge noire,Black-throated Sparrow
+115,115.Brewer_Sparrow,Bruant de Brewer,Brewer's Sparrow
+116,116.Chipping_Sparrow,Bruant familier,Chipping Sparrow
+117,117.Clay_colored_Sparrow,Bruant des plaines,Clay-colored Sparrow
+118,118.House_Sparrow,Moineau domestique,House Sparrow
+119,119.Field_Sparrow,Bruant des champs,Field Sparrow
+120,120.Fox_Sparrow,Bruant fuligineux,Sooty Fox Sparrow
+121,121.Grasshopper_Sparrow,Bruant sauterelle,Grasshopper Sparrow
+122,122.Harris_Sparrow,Bruant à face noire,Harris's Sparrow
+123,123.Henslow_Sparrow,Bruant de Henslow,Henslow's Sparrow
+124,124.Le_Conte_Sparrow,Bruant de Le Conte,LeConte's Sparrow
+125,125.Lincoln_Sparrow,Bruant de Lincoln,Lincoln's Sparrow
+126,126.Nelson_Sharp_tailed_Sparrow,Bruant de Nelson,Nelson's Sparrow
+127,127.Savannah_Sparrow,Bruant des prés,Savannah Sparrow
+128,128.Seaside_Sparrow,Bruant maritime,Seaside Sparrow
+129,129.Song_Sparrow,Bruant chanteur,Song Sparrow
+130,130.Tree_Sparrow,Moineau friquet,Eurasian Tree Sparrow
+131,131.Vesper_Sparrow,Bruant vespéral,Vesper Sparrow
+132,132.White_crowned_Sparrow,Bruant à couronne blanche,White-crowned Sparrow
+133,133.White_throated_Sparrow,Bruant à gorge blanche,White-throated Sparrow
+134,134.Cape_Glossy_Starling,Choucador à épaulettes rouges,Cape starling
+135,135.Bank_Swallow,Hirondelle de rivage,Bank Swallow
+136,136.Barn_Swallow,Hirondelle rustique,Barn Swallow
+137,137.Cliff_Swallow,Hirondelle à front blanc,American Cliff Swallow
+138,138.Tree_Swallow,Hirondelle bicolore,Tree Swallow
+139,139.Scarlet_Tanager,Tangara écarlate,Scarlet Tanager
+140,140.Summer_Tanager,Tangara vermillon,Summer Tanager
+141,141.Artic_Tern,Sterne arctique,Arctic Tern
+142,142.Black_Tern,Guifette noire,Black Tern
+143,143.Caspian_Tern,Sterne caspienne,Caspian Tern
+144,144.Common_Tern,Sterne pierregarin,Common Tern
+145,145.Elegant_Tern,Sterne élégante,Elegant Tern
+146,146.Forsters_Tern,Sterne de Forster,Forster's Tern
+147,147.Least_Tern,Petite Sterne,Least Tern
+148,148.Green_tailed_Towhee,Tohi à queue verte,Green-tailed Towhee
+149,149.Brown_Thrasher,Moqueur roux,Brown Thrasher
+150,150.Sage_Thrasher,Moqueur des armoises,Sage Thrasher
+151,151.Black_capped_Vireo,Viréo à tête noire,Black-capped Vireo
+152,152.Blue_headed_Vireo,Viréo à tête bleue,Blue-headed Vireo
+153,153.Philadelphia_Vireo,Viréo de Philadelphie,Philadelphia Vireo
+154,154.Red_eyed_Vireo,Viréo à oeil rouge,Red-eyed Vireo
+155,155.Warbling_Vireo,Viréo mélodieux,Warbling Vireo
+156,156.White_eyed_Vireo,Viréo aux yeux blancs,White-eyed Vireo
+157,157.Yellow_throated_Vireo,Viréo à gorge jaune,Yellow-throated Vireo
+158,158.Bay_breasted_Warbler,Paruline à poitrine baie,Bay-breasted Warbler
+159,159.Black_and_white_Warbler,Paruline noir et blanc,Black-and-white Warbler
+160,160.Black_throated_Blue_Warbler,Paruline bleue,Black-throated Blue Warbler
+161,161.Blue_winged_Warbler,Paruline à ailes bleues,Blue-winged Warbler
+162,162.Canada_Warbler,Paruline du Canada,Canada Warbler
+163,163.Cape_May_Warbler,Paruline tigrée,Cape May Warbler
+164,164.Cerulean_Warbler,Paruline azurée,Cerulean Warbler
+165,165.Chestnut_sided_Warbler,Paruline à flancs marron,Chestnut-sided Warbler
+166,166.Golden_winged_Warbler,Paruline à ailes dorées,Golden-winged Warbler
+167,167.Hooded_Warbler,Paruline à capuchon,Hooded Warbler
+168,168.Kentucky_Warbler,Paruline du Kentucky,Kentucky Warbler
+169,169.Magnolia_Warbler,Paruline à tête cendrée,Magnolia Warbler
+170,170.Mourning_Warbler,Paruline triste,Mourning Warbler
+171,171.Myrtle_Warbler,Paruline à croupion jaune,Myrtle Warbler
+172,172.Nashville_Warbler,Paruline à joues grises,Nashville Warbler
+173,173.Orange_crowned_Warbler,Paruline verdâtre,Orange-crowned Warbler
+174,174.Palm_Warbler,Paruline à couronne rousse,Palm Warbler
+175,175.Pine_Warbler,Paruline des pins,Pine Warbler
+176,176.Prairie_Warbler,Paruline des prés,Prairie Warbler
+177,177.Prothonotary_Warbler,Paruline orangée,Prothonotary Warbler
+178,178.Swainson_Warbler,Paruline de Swainson,Swainson's Warbler
+179,179.Tennessee_Warbler,Paruline obscure,Tennessee Warbler
+180,180.Wilson_Warbler,Paruline à calotte noire,Wilson's Warbler
+181,181.Worm_eating_Warbler,Paruline vermivore,Worm-eating Warbler
+182,182.Yellow_Warbler,Paruline jaune,American yellow warbler
+183,183.Northern_Waterthrush,Paruline des ruisseaux,Northern Waterthrush
+184,184.Louisiana_Waterthrush,Paruline hochequeue,Louisiana Waterthrush
+185,185.Bohemian_Waxwing,Jaseur boréal,Bohemian Waxwing
+186,186.Cedar_Waxwing,Jaseur d'Amérique,Cedar Waxwing
+187,187.American_Three_toed_Woodpecker,Pic à dos rayé,American Three-toed Woodpecker
+188,188.Pileated_Woodpecker,Grand Pic,Pileated Woodpecker
+189,189.Red_bellied_Woodpecker,Pic à ventre roux,Red-bellied Woodpecker
+190,190.Red_cockaded_Woodpecker,Pic à face blanche,Red-cockaded Woodpecker
+191,191.Red_headed_Woodpecker,Pic à tête rouge,Red-headed Woodpecker
+192,192.Downy_Woodpecker,Pic mineur,Downy Woodpecker
+193,193.Bewick_Wren,Troglodyte de Bewick,Bewick's Wren
+194,194.Cactus_Wren,Troglodyte des cactus,Cactus Wren
+195,195.Carolina_Wren,Troglodyte de Caroline,Carolina Wren
+196,196.House_Wren,Troglodyte familier,House Wren
+197,197.Marsh_Wren,Troglodyte des marais,Marsh Wren
+198,198.Rock_Wren,Troglodyte des rochers,Rock Wren
+199,199.Winter_Wren,Troglodyte des forêts,Winter Wren
+200,200.Common_Yellowthroat,Paruline masquée,Common Yellowthroat
